@@ -5,4 +5,4 @@ Crime data
 2. Python
 3. Data visualization
 
-https://www.mercy.edu/sites/default/files/2020-07/iStock-1150199386.jpg
+![Alt text](https://www.mercy.edu/sites/default/files/2020-07/iStock-1150199386.jpg)
